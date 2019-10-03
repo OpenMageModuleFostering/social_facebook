@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Social_Facebook",
+    "name": "OpenMageModuleFostering\/Social_Facebook",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Facebook Open Graph Extension for Magento",
     "authors": [
-    {
-        "name": "Magento Core Team",
-        "email": "core@magentocommerce.com"
-    }
-],
+        {
+            "name": "Magento Core Team",
+            "email": "core@magentocommerce.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
